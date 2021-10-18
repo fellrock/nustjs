@@ -24,6 +24,20 @@ html {
   margin: 0;
 }
 
+.button--orange {
+  display: inline-block;
+  border-radius: 4px;
+  border: 1px solid #d37c54;
+  color: #d37c54;
+  text-decoration: none;
+  padding: 10px 30px;
+}
+
+.button--orange:hover {
+  color: #fff;
+  background-color: #d37c54;
+}
+
 .button--green {
   display: inline-block;
   border-radius: 4px;

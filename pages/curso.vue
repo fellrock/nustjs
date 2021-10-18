@@ -3,7 +3,7 @@
     <div>
       <img src='~/assets/umaker_logo.png' alt="logo">  <!-- logo /-->
       <h1 class="title">
-        CURSOS
+        CURSO
       </h1>
       <h2 class="subtitle">
       </h2>

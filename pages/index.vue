@@ -8,20 +8,9 @@
       <h2 class="subtitle">
       </h2>
       <div class="links">
-        <!--<a
-          href="https://nuxtjs.org/"
-          target="_blank"
-          class="button--green"
-        >
          
-        </a>
-        <a--
-          href="https://github.com/nuxt/nuxt.js"
-          target="_blank"
-          class="button--grey"
-        >
-          GitHub
-        </a-->
+        <NuxtLink to="/curso" class="button--orange"> Home page </NuxtLink>
+          
       </div>
     </div>
   </div>
